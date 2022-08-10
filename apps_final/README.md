@@ -22,7 +22,7 @@
 
 ## Материалы
 
-[Презентация](https://disk.yandex.ru/i/5UtPQy03BKDGEQ)
+[Презентация](https://disk.yandex.ru/i/5UtPQy03BKDGEQ) <br>
 [Дашборд](https://public.tableau.com/app/profile/jj3240/viz/app_1_2_set/Dashboard_1_and_2)
 
 
