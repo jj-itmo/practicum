@@ -2,7 +2,6 @@
 
 | № | Проект | Сфера | Описание | Библиотеки | 
 | :-------- | :-------- | :-------- | :-------- | :-------- | 
-
 | 1 | [Анализ метрик обучающего приложения](https://github.com/jj-itmo/ya-practicum/tree/main/metric_analysis_for_gh) | Приложение | retention rate, динамика показателей, метрики монетизации, анализ регистраций, поведения, платежей  | `Pandas` `Seaborn` `Matplotlib`  | 
 | 2 | [Анализ роста CPA](https://github.com/jj-itmo/ya-practicum/tree/main/cpa_advertising_analyst) | Рекламные кампании | Анализ CPA, динамика CPA, срезы  | `Pandas` `Seaborn` `Matplotlib` `Math` | 
 | 3 | [Исследовательский анализ мобильного приложения доски объявлений, выделение групп пользователей на основе поведения](https://github.com/jj-itmo/ya-practicum/tree/main/apps_final) | Мобильные приложения | DAU/WAU/MAU, динамика количества пользователей/событий, конверсии, продуктовые воронки, когортный анализ, сегментация пользователей, статистические гипотезы, презентация, дашборд Tableau | `Pandas` `Matplotlib` `Plotly` `Seaborn` |
